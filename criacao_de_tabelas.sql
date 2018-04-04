@@ -26,3 +26,14 @@ _______________________________________________________________
     
     IF NOT EXISTS para nao gerar erro se a tabela ja existir
     */
+
+#comando para mostrar as tabelas de um schema em uso 
+SHOW TABLES;
+
+
+
+
+
+
+
+
